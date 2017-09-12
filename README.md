@@ -37,7 +37,7 @@ You need to choose whichever version matches your python distribution. For insta
 
         pip install opencv_python‑3.3.0+contrib‑cp36‑cp36m‑win_amd64.whl
         
-Obviously, if you downloaded a different wheel, just insert the name of the wheel you downloaded.
+    Obviously, if you downloaded a different wheel, just insert the name of the wheel you downloaded.
 
 1. Once OpenCV is installed, make sure that you have the right numpy version for it.
 Since Anaconda might have been compiled with a different numpy than the OpenCV lib,
@@ -48,14 +48,14 @@ numpy from http://www.lfd.uci.edu/~gohlke/pythonlibs/#numpy using the same logic
 
         pip uninstall numpy
 
-and then install the new version:
+    and then install the new version:
 
         pip install numpy‑1.13.1+mkl‑cp36‑cp36m‑win_amd64.whl
 
-**Note for bare-bones users: You should also download numpy and install it using the steps described above since that distro will be much faster than the default version.**
+    **Note for bare-bones users: You should also download numpy and install it using the steps described above since that distro will be much faster than the default version.**
 
 1.  Finally, make sure that your distribution has *matplotlib*, which is used extensively in this repo for plotting and saving figures. To install it, you can simply use `pip`, that is, open a command prompt and enter
-~~~
-pip install matplotlib
-~~~
-Even if your distribution already had such an installation, the above command shouldn't harm anybody.
+
+        pip install matplotlib
+
+    Even if your distribution already had such an installation, the above command shouldn't harm anybody.
