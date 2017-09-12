@@ -1,4 +1,6 @@
-# This repository contains several projects related to self-driving cars.
+# Overview 
+
+This repository contains several projects related to self-driving cars. 
 All of the projects in this repository were designed and tested in
 - 64-bit Anaconda 4.4.0 (Python 3.6.1)
 - with OpenCV 3.3.0
@@ -7,7 +9,7 @@ All of the projects in this repository were designed and tested in
 If you need help setting this up on your computer, please follow the guide in the
 following section
 
-#### Installing Anaconda (or Python) with *OpenCV* and Matplotlib (and Numpy)
+## Installing Anaconda (or Python) with *OpenCV* and Matplotlib (and Numpy)
 1. 
     - If you want to use Anaconda (which comes packaged with many additional, useful features), get it here https://www.anaconda.com/download/#download. The code in this repo was tested on the 64-bit version of Anaconda 4.4.0 for Windows.
     - If you only want the bare-bones python distribution, you can get it here
