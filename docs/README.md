@@ -10,9 +10,7 @@ If you need help setting this up on your computer, please follow the guide in th
 following section.
 
 ## Installing Anaconda (or Python) with *OpenCV* and Matplotlib (and Numpy)
-1.
-    - If you want to use Anaconda (which comes packaged with many additional, useful features), get it here [anaconda.com/download/#download](https://www.anaconda.com/download/#download). The code in this repo was tested on the 64-bit version of Anaconda 4.4.0 for Windows.
-    - If you only want the bare-bones python distribution, you can get it here
+1. If you want to use Anaconda (which comes packaged with many additional, useful features), get it here [anaconda.com/download/#download](https://www.anaconda.com/download/#download). The code in this repo was tested on the 64-bit version of Anaconda 4.4.0 for Windows. If you only want the bare-bones python distribution, you can get it here
 [python.org/downloads/windows/](https://www.python.org/downloads/windows/). To
 ensure that you have similar dependencies to the Anaconda version I used to write this code,
 find a version with the prefix 3.6, and make sure you choose one of the **Windows x86-64** installers.
